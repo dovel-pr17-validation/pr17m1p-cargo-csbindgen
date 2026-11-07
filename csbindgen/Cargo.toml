@@ -13,4 +13,4 @@ repository = "https://github.com/Cysharp/csbindgen/"
 
 [dependencies]
 syn = { version = "2.0.68", features = ["full", "parsing"] }
-regex = "1.10.5"
+regex = "1.13.1"
