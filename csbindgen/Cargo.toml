@@ -12,5 +12,5 @@ homepage = "https://github.com/Cysharp/csbindgen/"
 repository = "https://github.com/Cysharp/csbindgen/"
 
 [dependencies]
-syn = { version = "2.0.68", features = ["full", "parsing"] }
+syn = { version = "2.0.119", features = ["full", "parsing"] }
 regex = "1.10.5"
